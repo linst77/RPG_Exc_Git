@@ -6016,3 +6016,49 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.06.11-15.21.50:613][845]LogSavePackage: Moving '../../../../../../Project/RPG_Exc_Git/Saved/90Z37T82Y14555DYRMS1U5_Auto459101C7745F45A1B9AE03BA045DD01A4.tmp' to '../../../../../../Project/RPG_Exc_Git/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UO/90Z37T82Y14555DYRMS1U5_Auto4.uasset'
 [2023.06.11-15.21.50:614][845]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.089
 [2023.06.11-15.21.50:614][845]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.089
+[2023.06.11-15.22.34:462][129]LogSlate: Window 'BP_Noty_SphereTrace' being destroyed
+[2023.06.11-15.22.34:467][129]LogSlate: Window 'BP_Noty_SphereTrace' being destroyed
+[2023.06.11-15.22.34:496][129]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-15.22.34:496][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-15.22.34:817][129]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.06.11-15.22.34:817][129]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-15.22.34:817][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-15.22.34:917][129]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-15.22.34:917][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-15.22.35:083][129]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-15.22.35:083][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-15.22.35:186][129]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-15.22.35:186][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-15.22.35:247][129]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-15.22.35:247][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-15.22.35:261][129]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-15.22.35:262][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-15.22.35:356][129]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-15.22.35:356][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-15.22.35:379][129]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-15.22.35:379][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-15.22.42:109][778]LogSlate: Window 'Message Log' being destroyed
+[2023.06.11-15.22.42:114][778]LogSlate: Window 'Message Log' being destroyed
+[2023.06.11-15.23.19:816][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.06.11-15.23.21:037][ 99]LogSlate: Window 'Save Content' being destroyed
+[2023.06.11-15.23.21:046][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.11-15.23.21:115][ 99]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/3P/OESVXLWI3XRMX9W98Y2Y74
+[2023.06.11-15.23.21:115][ 99]LogSavePackage: Moving '../../../../../../Project/RPG_Exc_Git/Saved/OESVXLWI3XRMX9W98Y2Y74AAFD59614940CDB690FF80A18BF85B0F.tmp' to '../../../../../../Project/RPG_Exc_Git/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/3P/OESVXLWI3XRMX9W98Y2Y74.uasset'
+[2023.06.11-15.23.21:136][ 99]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/G7/9JAUH2IDCAJQP1T4AJGAG3
+[2023.06.11-15.23.21:136][ 99]LogSavePackage: Moving '../../../../../../Project/RPG_Exc_Git/Saved/9JAUH2IDCAJQP1T4AJGAG399F2761A4A5D566B03EBD5BDD79C7DF2.tmp' to '../../../../../../Project/RPG_Exc_Git/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/G7/9JAUH2IDCAJQP1T4AJGAG3.uasset'
+[2023.06.11-15.23.21:139][ 99]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UO/90Z37T82Y14555DYRMS1U5
+[2023.06.11-15.23.21:140][ 99]LogSavePackage: Moving '../../../../../../Project/RPG_Exc_Git/Saved/90Z37T82Y14555DYRMS1U58C719DAB4E09AFF5EE2C2CBC952F4853.tmp' to '../../../../../../Project/RPG_Exc_Git/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UO/90Z37T82Y14555DYRMS1U5.uasset'
+[2023.06.11-15.23.21:143][ 99]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/1I/O9LU5SAJ57Y57J6RMA94E6
+[2023.06.11-15.23.21:144][ 99]LogSavePackage: Moving '../../../../../../Project/RPG_Exc_Git/Saved/O9LU5SAJ57Y57J6RMA94E6F1AE5FA944E79EC339C0DA8EF174384B.tmp' to '../../../../../../Project/RPG_Exc_Git/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/1I/O9LU5SAJ57Y57J6RMA94E6.uasset'
+[2023.06.11-15.23.21:171][ 99]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/TX/RICBWGO3LUJKE28HL2XJ2U
+[2023.06.11-15.23.21:171][ 99]LogSavePackage: Moving '../../../../../../Project/RPG_Exc_Git/Saved/RICBWGO3LUJKE28HL2XJ2UBD1459B04D5D8A26259481B5BEB9FB7C.tmp' to '../../../../../../Project/RPG_Exc_Git/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/TX/RICBWGO3LUJKE28HL2XJ2U.uasset'
+[2023.06.11-15.23.21:175][ 99]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/O0/0WPI8XUID1ZIQ2CKOKMTNW
+[2023.06.11-15.23.21:176][ 99]LogSavePackage: Moving '../../../../../../Project/RPG_Exc_Git/Saved/0WPI8XUID1ZIQ2CKOKMTNWEA637D1543E0F498843BB89729224531.tmp' to '../../../../../../Project/RPG_Exc_Git/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/O0/0WPI8XUID1ZIQ2CKOKMTNW.uasset'
+[2023.06.11-15.23.21:185][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 7.43 sec)
+[2023.06.11-15.23.21:192][ 99]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.11-15.23.21:192][ 99]LogContentValidation: Display: Validating /Game/Developers/linst77/Collections/Blueprint/BP_NPC.BP_NPC_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_F02F7430331F2F8901_1469605106
+[2023.06.11-15.23.21:192][ 99]LogContentValidation: Display: Validating /Game/Developers/linst77/Collections/Blueprint/BP_NPC.BP_NPC_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_F02F7430331FD18901_1783501616
+[2023.06.11-15.23.21:192][ 99]LogContentValidation: Display: Validating /Game/Developers/linst77/Collections/Blueprint/BP_NPC.BP_NPC_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_F02F7430331FD18901_1798813618
+[2023.06.11-15.23.21:192][ 99]LogContentValidation: Display: Validating /Game/Developers/linst77/Collections/Blueprint/BP_NPC.BP_NPC_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_F02F7430331F2F8901_1434226104
+[2023.06.11-15.23.21:192][ 99]LogContentValidation: Display: Validating /Game/Developers/linst77/Collections/Blueprint/BP_NPC.BP_NPC_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_F02F7430331FD18901_1785032617
+[2023.06.11-15.23.21:192][ 99]LogContentValidation: Display: Validating /Game/Developers/linst77/Collections/Blueprint/BP_NPC.BP_NPC_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_NPC_C_UAID_F02F7430331F2F8901_1464384105
